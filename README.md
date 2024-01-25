@@ -1,1 +1,1 @@
-**NOTE: The module breezypythongui.py MUST be in the same directory as this file for the app to run correctly!
+**NOTE: The GUI-based requires the module breezypythongui.py both MUST be in the same directory to run correctly!
